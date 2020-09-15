@@ -1,3 +1,6 @@
-h1 {
-    color: aqua;
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+div {
+    border: 20px solid pink
 }
