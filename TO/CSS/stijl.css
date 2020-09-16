@@ -1,6 +1,21 @@
 body {
     font-family: 'Noto Sans JP', sans-serif;
+    background-color: pink;
 }
 div {
-    border: 20px solid pink
+    border: 5px solid gray;
+    top: 20px;
+    position: relative;
+    left: 600px;
+    width: 600px;
+    height: 1200px;
+    background-color: white;
+}
+p {
+    position: relative;
+    left: 5px;
+}
+h1 {
+    text-align: center;
+    left: 200px;
 }
