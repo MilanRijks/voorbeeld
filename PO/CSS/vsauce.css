@@ -22,7 +22,7 @@ body, html {
 }
 .button {
     background-color:rgb(32, 32, 32);
-    width: 20%;
+    width: 100%;
     height: 100%;
     transition-duration: 0.4s;
     border: none;
@@ -36,6 +36,6 @@ body, html {
     background-color: rgb(36, 35, 35);
 }
 a {
-    width: 20%;
-    height: 100%;
+    height:100%;
+    width:20%;
 }
